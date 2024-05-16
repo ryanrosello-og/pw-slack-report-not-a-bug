@@ -1,5 +1,5 @@
 {
-  "name": "_tmp",
+  "name": "tmp",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -10,6 +10,6 @@
   "devDependencies": {
     "@playwright/test": "^1.44.0",
     "@types/node": "^20.12.10",
-    "playwright-slack-report": "^1.1.72"
+    "playwright-slack-report": "^1.1.80"
   }
 }
